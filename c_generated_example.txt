@@ -1,0 +1,383 @@
+Total characters: 4956
+Total vocabulary: 62
+Total patterns: 4906
+Loaded weights
+
+
+(&plist);
+    } else if (caction=='s'){
+      iltrrri((pnlet       freisf("(%%""""ootoonn(";neext->wswor).s,w)   rttdn  sseln >>nbx;;
+  stent=(   ptemp->>ssoot).sssor ).s,sllcciiisls((pneee);
+;
+   strnpy(((*ntedd))b
+s,r-->ttt,t)(;)r   stt t=0;aa iin diite  *) hhr  [5;ittnld='u'){
+      ll_re**pner, snws,d s')      if(pp_stt-->wnst);
+    pf (pcur==nul));
+   peeurr (;ndext   bbuln =(s",t--wwwrd *s))i
+     ll_pe(ppurt)&p itttunnlull;
+ddist  
+ wwileffsr->pnext=
+cce x
+;
+ iiile i       }
+inctri  themt))      printc""%s",&"a"ttoor)>;
+}
+
+ ne  aiiimn=ttr(snode **pcla  s
+i  nnwodel
+e
+      printf("eneer a numbe  fssa   ps,,pz0;;;nri **p)isn  nni  [swirt)    wrrisf("st,  wntox,;} sood    sttrde sser ;
+nnex ;
+}
+s
+
+
+ steee=plurt;
+p eetrur n
+  
+    priinf("tbuor  anuex:""%sslant((pseo *wssord).snso+;)
+   tleepy((preep * ss,x];
+"     *pllstt(->pswot=null;
+     eeturn 0;
+  }
+ &)trrrn((pnxxm--(ssword).nnbxt-->nsword).nnb);;
+    steep=(pweet)) sswot=="nlll;;
+ nnert *ppext-*
+pnext;;
+  steit=pcurr->pnext))
+   ilseef(cr(-ctuuctnssss sodd  *);
+i
+  ttinl(("%/""&}oeoe((ptemx-->pse++))    stccpf((pneopd)>nswot)nnnlr;->n sxr
+""rhaaef(sreep->nooe:**);ctac (s s t[- lliie *s)
+
+st  l5;;iiiii  h)w
+{  snt l)0p
+  irt nl0te  srr   srt  {);  int dl a  ior (ncc n[0;inn];;)+
+
+   hh_pl(&plist,[50]   rr  pfss,>sseord){  sttrrd);;   n   printf("[xxxx]->(%s,rru-->newo,,>ssword).nsb;;;     (ptemp->pnext)->pnext=null;
+  }
+  return 0;
+}
+
+int ll_print(snode *plist){
+  if (plist==null) { printf("[null]\n"); return 1; }
+  printf("[xxxx]->(%s,%d)->",(plist->wsword).s, (plist->wsword).nnb);
+  }h lp  priit==null) {pcmt==nnllr;; nnbxknn.su ;;
+  fet(st(reeuttoooosss snode **;;
+int llideltructoo(snode **plistt{  c
+inl l));
+iiist,,tteee *prea ff   t   plurt=>pslor){
+     (steref(scur){        s
+
+    /
+     if (caction=='s'){
+      printf("sorted adding  f    ff(ssrsi((p
+}
+ ttt de_
+elrde  *);har sz_de ;stert))
+  plistf("(ndedd--w ssr,-,wooo:,)sssan== s
+  trimpt>>neet;;
+//rto  pcaal=;;seore {/st   cscan *s
+a snoodnee t
+
+  rr del5i the  srri  ,,      ll_print(plist);
+     } els  f  caction=='h'){
+      plintf("entor a dombee tourr n     *pyeesf("shmmv a sume:d)-w
+     (*ppplst)-pnest)      }  (priitf(";
+}
+
+
+n)t-ll_d;;
+{
+  srode *plint[=nbll;;
+  in  ;p   lcint=_plll)  prrint((acuirk-(pbul)t)
+
+  tttnef(stemt->pneo ;
+/    streep((ptemt->pnext)-} ssordt uoell toeere  an ahkcoi  snes.->pper a  ttrine((ptemp==pnl)r     ttt epssre=>seext){
+ r        *ll_rrint(pliit);
+     } else if (caction=='p'){
+      ll_rerrnn(plist);
+    } else if (caction=='p'){
+      ll_rerrnnt(plist);
+    }
+    */
+  }while(caction!='q');
+
+  return 0;
+}
+
+
+
+te ll_print(saddstoee **pplist){
+      }o(se  ttt i=0;i<nbol;+++)       ll_srint("plist[nnd);
+      llinef("pner) a    rrrur (ssemp *ppsordd
+.s   
+    ppeppf(ppeet);
+     }
+u
+     if (caction=='h'){
+      prin fztrrd 5swwrt[ nnul;;
+    ff (pcur==nnul)p reeell"tllse *p)ist  pn  inrre  tsee   sword (ssii];;
+nnexert(>ndext;;
+   tyreef(sttrr,  n enttoell((nneee "));aaisfssi theee {
+      lriref("(/ttemc-((s,,is---,(s,,szw,st)d s
+dnroee toeer)th afaatr   s epcee (%%"""&oo  stt n 0;ti n[n++;
+      ll_srrtttdaaddstrr,&plist);
+    } else if (caction=='s'){
+      iltrrri((pnlet       freisf("(%%""""ootoonn(";neext->wswor).s,w)   rttdn  sseln >>nbx;;
+  stent=(   ptemp->>ssoot).sssor ).s,sllcciiisls((pneee);
+;
+   strnpy(((*ntedd))b
+s,r-->ttt,t)(;)r   stt t=0;aa iin diite  *) hhr  [5;ittnld='u'){
+      ll_re**pner, snws,d s')      if(pp_stt-->wnst);
+    pf (pcur==nul));
+   peeurr (;ndext   bbuln =(s",t--wwwrd *s))i
+     ll_pe(ppurt)&p itttunnlull;
+ddist  
+ wwileffsr->pnext=
+cce x
+;
+ iiile i       }
+inctri  themt))      printc""%s",&"a"ttoor)>;
+}
+
+ ne  aiiimn=ttr(snode **pcla  s
+i  nnwodel
+e
+      printf("eneer a numbe  fssa   ps,,pz0;;;nri **p)isn  nni  [swirt)    wrrisf("st,  wntox,;} sood    sttrde sser ;
+nnex ;
+}
+s
+
+
+ steee=plurt;
+p eetrur n
+  
+    priinf("tbuor  anuex:""%sslant((pseo *wssord).snso+;)
+   tleepy((preep * ss,x];
+"     *pllstt(->pswot=null;
+     eeturn 0;
+  }
+ &)trrrn((pnxxm--(ssword).nnbxt-->nsword).nnb);;
+    steep=(pweet)) sswot=="nlll;;
+ nnert *ppext-*
+pnext;;
+  steit=pcurr->pnext))
+   ilseef(cr(-ctuuctnssss sodd  *);
+i
+  ttinl(("%/""&}oeoe((ptemx-->pse++))    stccpf((pneopd)>nswot)nnnlr;->n sxr
+""rhaaef(sreep->nooe:**);ctac (s s t[- lliie *s)
+
+st  l5;;iiiii  h)w
+{  snt l)0p
+  irt nl0te  srr   srt  {);  int dl a  ior (ncc n[0;inn];;)+
+
+   hh_pl(&plist,[50]   rr  pfss,>sseord){  sttrrd);;   n   printf("[xxxx]->(%s,rru-->newo,,>ssword).nsb;;;     (ptemp->pnext)->pnext=null;
+  }
+  return 0;
+}
+
+int ll_print(snode *plist){
+  if (plist==null) { printf("[null]\n"); return 1; }
+  printf("[xxxx]->(%s,%d)->",(plist->wsword).s, (plist->wsword).nnb);
+  }h lp  priit==null) {pcmt==nnllr;; nnbxknn.su ;;
+  fet(st(reeuttoooosss snode **;;
+int llideltructoo(snode **plistt{  c
+inl l));
+iiist,,tteee *prea ff   t   plurt=>pslor){
+     (steref(scur){        s
+
+    /
+     if (caction=='s'){
+      printf("sorted adding  f    ff(ssrsi((p
+}
+ ttt de_
+elrde  *);har sz_de ;stert))
+  plistf("(ndedd--w ssr,-,wooo:,)sssan== s
+  trimpt>>neet;;
+//rto  pcaal=;;seore {/st   cscan *s
+a snoodnee t
+
+  rr del5i the  srri  ,,      ll_print(plist);
+     } els  f  caction=='h'){
+      plintf("entor a dombee tourr n     *pyeesf("shmmv a sume:d)-w
+     (*ppplst)-pnest)      }  (priitf(";
+}
+
+
+n)t-ll_d;;
+{
+  srode *plint[=nbll;;
+  in  ;p   lcint=_plll)  prrint((acuirk-(pbul)t)
+
+  tttnef(stemt->pneo ;
+/    streep((ptemt->pnext)-} ssordt uoell toeere  an ahkcoi  snes.->pper a  ttrine((ptemp==pnl)r     ttt epssre=>seext){
+ r        *ll_rrint(pliit);
+     } else if (caction=='p'){
+      ll_rerrnn(plist);
+    } else if (caction=='p'){
+      ll_rerrnnt(plist);
+    }
+    */
+  }while(caction!='q');
+
+  return 0;
+}
+
+
+
+te ll_print(saddstoee **pplist){
+      }o(se  ttt i=0;i<nbol;+++)       ll_srint("plist[nnd);
+      llinef("pner) a    rrrur (ssemp *ppsordd
+.s   
+    ppeppf(ppeet);
+     }
+u
+     if (caction=='h'){
+      prin fztrrd 5swwrt[ nnul;;
+    ff (pcur==nnul)p reeell"tllse *p)ist  pn  inrre  tsee   sword (ssii];;
+nnexert(>ndext;;
+   tyreef(sttrr,  n enttoell((nneee "));aaisfssi theee {
+      lriref("(/ttemc-((s,,is---,(s,,szw,st)d s
+dnroee toeer)th afaatr   s epcee (%%"""&oo  stt n 0;ti n[n++;
+      ll_srrtttdaaddstrr,&plist);
+    } else if (caction=='s'){
+      iltrrri((pnlet       freisf("(%%""""ootoonn(";neext->wswor).s,w)   rttdn  sseln >>nbx;;
+  stent=(   ptemp->>ssoot).sssor ).s,sllcciiisls((pneee);
+;
+   strnpy(((*ntedd))b
+s,r-->ttt,t)(;)r   stt t=0;aa iin diite  *) hhr  [5;ittnld='u'){
+      ll_re**pner, snws,d s')      if(pp_stt-->wnst);
+    pf (pcur==nul));
+   peeurr (;ndext   bbuln =(s",t--wwwrd *s))i
+     ll_pe(ppurt)&p itttunnlull;
+ddist  
+ wwileffsr->pnext=
+cce x
+;
+ iiile i       }
+inctri  themt))      printc""%s",&"a"ttoor)>;
+}
+
+ ne  aiiimn=ttr(snode **pcla  s
+i  nnwodel
+e
+      printf("eneer a numbe  fssa   ps,,pz0;;;nri **p)isn  nni  [swirt)    wrrisf("st,  wntox,;} sood    sttrde sser ;
+nnex ;
+}
+s
+
+
+ steee=plurt;
+p eetrur n
+  
+    priinf("tbuor  anuex:""%sslant((pseo *wssord).snso+;)
+   tleepy((preep * ss,x];
+"     *pllstt(->pswot=null;
+     eeturn 0;
+  }
+ &)trrrn((pnxxm--(ssword).nnbxt-->nsword).nnb);;
+    steep=(pweet)) sswot=="nlll;;
+ nnert *ppext-*
+pnext;;
+  steit=pcurr->pnext))
+   ilseef(cr(-ctuuctnssss sodd  *);
+i
+  ttinl(("%/""&}oeoe((ptemx-->pse++))    stccpf((pneopd)>nswot)nnnlr;->n sxr
+""rhaaef(sreep->nooe:**);ctac (s s t[- lliie *s)
+
+st  l5;;iiiii  h)w
+{  snt l)0p
+  irt nl0te  srr   srt  {);  int dl a  ior (ncc n[0;inn];;)+
+
+   hh_pl(&plist,[50]   rr  pfss,>sseord){  sttrrd);;   n   printf("[xxxx]->(%s,rru-->newo,,>ssword).nsb;;;     (ptemp->pnext)->pnext=null;
+  }
+  return 0;
+}
+
+int ll_print(snode *plist){
+  if (plist==null) { printf("[null]\n"); return 1; }
+  printf("[xxxx]->(%s,%d)->",(plist->wsword).s, (plist->wsword).nnb);
+  }h lp  priit==null) {pcmt==nnllr;; nnbxknn.su ;;
+  fet(st(reeuttoooosss snode **;;
+int llideltructoo(snode **plistt{  c
+inl l));
+iiist,,tteee *prea ff   t   plurt=>pslor){
+     (steref(scur){        s
+
+    /
+     if (caction=='s'){
+      printf("sorted adding  f    ff(ssrsi((p
+}
+ ttt de_
+elrde  *);har sz_de ;stert))
+  plistf("(ndedd--w ssr,-,wooo:,)sssan== s
+  trimpt>>neet;;
+//rto  pcaal=;;seore {/st   cscan *s
+a snoodnee t
+
+  rr del5i the  srri  ,,      ll_print(plist);
+     } els  f  caction=='h'){
+      plintf("entor a dombee tourr n     *pyeesf("shmmv a sume:d)-w
+     (*ppplst)-pnest)      }  (priitf(";
+}
+
+
+n)t-ll_d;;
+{
+  srode *plint[=nbll;;
+  in  ;p   lcint=_plll)  prrint((acuirk-(pbul)t)
+
+  tttnef(stemt->pneo ;
+/    streep((ptemt->pnext)-} ssordt uoell toeere  an ahkcoi  snes.->pper a  ttrine((ptemp==pnl)r     ttt epssre=>seext){
+ r        *ll_rrint(pliit);
+     } else if (caction=='p'){
+      ll_rerrnn(plist);
+    } else if (caction=='p'){
+      ll_rerrnnt(plist);
+    }
+    */
+  }while(caction!='q');
+
+  return 0;
+}
+
+
+
+te ll_print(saddstoee **pplist){
+      }o(se  ttt i=0;i<nbol;+++)       ll_srint("plist[nnd);
+      llinef("pner) a    rrrur (ssemp *ppsordd
+.s   
+    ppeppf(ppeet);
+     }
+u
+     if (caction=='h'){
+      prin fztrrd 5swwrt[ nnul;;
+    ff (pcur==nnul)p reeell"tllse *p)ist  pn  inrre  tsee   sword (ssii];;
+nnexert(>ndext;;
+   tyreef(sttrr,  n enttoell((nneee "));aaisfssi theee {
+      lriref("(/ttemc-((s,,is---,(s,,szw,st)d s
+dnroee toeer)th afaatr   s epcee (%%"""&oo  stt n 0;ti n[n++;
+      ll_srrtttdaaddstrr,&plist);
+    } else if (caction=='s'){
+      iltrrri((pnlet       freisf("(%%""""ootoonn(";neext->wswor).s,w)   rttdn  sseln >>nbx;;
+  stent=(   ptemp->>ssoot).sssor ).s,sllcciiisls((pneee);
+;
+   strnpy(((*ntedd))b
+s,r-->ttt,t)(;)r   stt t=0;aa iin diite  *) hhr  [5;ittnld='u'){
+      ll_re**pner, snws,d s')      if(pp_stt-->wnst);
+    pf (pcur==nul));
+   peeurr (;ndext   bbuln =(s",t--wwwrd *s))i
+     ll_pe(ppurt)&p itttunnlull;
+ddist  
+ wwileffsr->pnext=
+cce x
+;
+ iiile i       }
+inctri  themt))      printc""%s",&"a"ttoor)>;
+}
+
+ ne  aiiimn=ttr(snode **pcla  s
+i  nnwodel
+e
+      printf("eneer a numbe  fssa  

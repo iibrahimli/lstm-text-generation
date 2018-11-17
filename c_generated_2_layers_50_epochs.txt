@@ -1,0 +1,251 @@
+Total characters: 25936
+Total vocabulary: 75
+Total patterns: 25886
+Loaded weights
+
+int ll_print(snode *plist);
+int ll_destructor(snode **pplist);
+int ll_destructor(snode **pplist){
+  while(*pplist){
+    snode *ptemp=(*pplist)->pnext;
+    printf("removing [%d], ",(**pplist)->nval); 
+    free(*pplist);
+    *pplist=ptlm;
+  }
+  printf("\b\b\n"); 
+  return 0;
+}
+
+int ll_del(snode **pplist,cnt n){
+  snode *ptemt, *pcur;
+  psent=pcur=*pplist;
+  while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
+    psent=pcur;
+    pcur=pcur->pnext;
+  }
+  if (pcur==null) break; 
+  }
+  if (pcur){
+    if (pcur==*pplist) *pplist=pcur->pnext;
+    else psent->pnext=pcur->pnext;
+    free(pcur);
+    return 0;
+  } else return 1;
+}
+
+int ll_add(snode **pplist,int n){
+  snode *ptemt, *pcur;
+  psent=pcur=*pplist;
+  while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
+    psent=pcur;
+    pcur=pcur->pnext;
+  }
+  if (pcur==null) break; 
+  }
+  if (pcur){
+    if (pcur==*pplist) *pplist=pcur->pnext;
+    else psent->pnext=pcur->pnext;
+    free(pcur);
+    return 0;
+  } else return 1;
+}
+
+int ll_add(snode **pplist,int n){
+  snode *ptemt, *pcur;
+  psent=pcur=*pplist;
+  while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
+    psent=pcur;
+    pcur=pcur->pnext;
+  }
+  if (pcur==null) break; 
+  }
+  if (pcur){
+    if (pcur==*pplist) *pplist=pcur->pnext;
+    else psent->pnext=pcur->pnext;
+    free(pcur);
+    return 0;
+  } else return 1;
+}
+
+int ll_add(snode **pplist,int n){
+  snode *ptemt, *pcur;
+  psent=pcur=*pplist;
+  while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
+    psent=pcur;
+    pcur=pcur->pnext;
+  }
+  if (pcur==null) break; 
+  }
+  if (pcur){
+    if (pcur==*pplist) *pplist=pcur->pnext;
+    else psent->pnext=pcur->pnext;
+    free(pcur);
+    return 0;
+  } else return 1;
+}
+
+int ll_add(snode **pplist,int n){
+  snode *ptemt, *pcur;
+  psent=pcur=*pplist;
+  while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
+    psent=pcur;
+    pcur=pcur->pnext;
+  }
+  if (pcur==null) break; 
+  }
+  if (pcur){
+    if (pcur==*pplist) *pplist=pcur->pnext;
+    else psent->pnext=pcur->pnext;
+    free(pcur);
+    return 0;
+  } else return 1;
+}
+
+int ll_add(snode **pplist,int n){
+  snode *ptemt, *pcur;
+  psent=pcur=*pplist;
+  while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
+    psent=pcur;
+    pcur=pcur->pnext;
+  }
+  if (pcur==null) break; 
+  }
+  if (pcur){
+    if (pcur==*pplist) *pplist=pcur->pnext;
+    else psent->pnext=pcur->pnext;
+    free(pcur);
+    return 0;
+  } else return 1;
+}
+
+int ll_add(snode **pplist,int n){
+  snode *ptemt, *pcur;
+  psent=pcur=*pplist;
+  while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
+    psent=pcur;
+    pcur=pcur->pnext;
+  }
+  if (pcur==null) break; 
+  }
+  if (pcur){
+    if (pcur==*pplist) *pplist=pcur->pnext;
+    else psent->pnext=pcur->pnext;
+    free(pcur);
+    return 0;
+  } else return 1;
+}
+
+int ll_add(snode **pplist,int n){
+  snode *ptemt, *pcur;
+  psent=pcur=*pplist;
+  while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
+    psent=pcur;
+    pcur=pcur->pnext;
+  }
+  if (pcur==null) break; 
+  }
+  if (pcur){
+    if (pcur==*pplist) *pplist=pcur->pnext;
+    else psent->pnext=pcur->pnext;
+    free(pcur);
+    return 0;
+  } else return 1;
+}
+
+int ll_add(snode **pplist,int n){
+  snode *ptemt, *pcur;
+  psent=pcur=*pplist;
+  while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
+    psent=pcur;
+    pcur=pcur->pnext;
+  }
+  if (pcur==null) break; 
+  }
+  if (pcur){
+    if (pcur==*pplist) *pplist=pcur->pnext;
+    else psent->pnext=pcur->pnext;
+    free(pcur);
+    return 0;
+  } else return 1;
+}
+
+int ll_add(snode **pplist,int n){
+  snode *ptemt, *pcur;
+  psent=pcur=*pplist;
+  while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
+    psent=pcur;
+    pcur=pcur->pnext;
+  }
+  if (pcur==null) break; 
+  }
+  if (pcur){
+    if (pcur==*pplist) *pplist=pcur->pnext;
+    else psent->pnext=pcur->pnext;
+    free(pcur);
+    return 0;
+  } else return 1;
+}
+
+int ll_add(snode **pplist,int n){
+  snode *ptemt, *pcur;
+  psent=pcur=*pplist;
+  while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
+    psent=pcur;
+    pcur=pcur->pnext;
+  }
+  if (pcur==null) break; 
+  }
+  if (pcur){
+    if (pcur==*pplist) *pplist=pcur->pnext;
+    else psent->pnext=pcur->pnext;
+    free(pcur);
+    return 0;
+  } else return 1;
+}
+
+int ll_add(snode **pplist,int n){
+  snode *ptemt, *pcur;
+  psent=pcur=*pplist;
+  while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
+    psent=pcur;
+    pcur=pcur->pnext;
+  }
+  if (pcur==null) break; 
+  }
+  if (pcur){
+    if (pcur==*pplist) *pplist=pcur->pnext;
+    else psent->pnext=pcur->pnext;
+    free(pcur);
+    return 0;
+  } else return 1;
+}
+
+int ll_add(snode **pplist,int n){
+  snode *ptemt, *pcur;
+  psent=pcur=*pplist;
+  while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
+    psent=pcur;
+    pcur=pcur->pnext;
+  }
+  if (pcur==null) break; 
+  }
+  if (pcur){
+    if (pcur==*pplist) *pplist=pcur->pnext;
+    else psent->pnext=pcur->pnext;
+    free(pcur);
+    return 0;
+  } else return 1;
+}
+
+int ll_add(snode **pplist,int n){
+  snode *ptemt, *pcur;
+  psent=pcur=*pplist;
+  while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
+    psent=pcur;
+    pcur=pcur->pnext;
+  }
+  if (pcur==null) break; 
+  }
+  if (pcur){
+    if (pcur==*pplist) *pplist=pcur->pnext;
+    else psent->pnext
