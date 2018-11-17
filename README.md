@@ -4,7 +4,8 @@ It was trained on C code I wrote for my Data Structures and Algorithms class, wh
 It overfit on that data, as it is seen from nearly intelligible variable names and string literals.
 
 For example:
-`int ll_add(snode **pplist,int n){
+```
+int ll_add(snode **pplist,int n){
   snode *ptemt, *pcur;
   psent=pcur=*pplist;
   while((pcur)&&(ptrcmp((pcur->wsword).s,s))){
@@ -19,7 +20,8 @@ For example:
     free(pcur);
     return 0;
   } else return 1;
-}`
+}
+```
 
 This is from the output of 2-layer LSTM, which is larger than the network used to generate `c_generated_example.txt`, which gave it more expressive power and allowed it to easily overfit.
 It has learned what a function generally looks like return type, name, braces, parentheses, etc.
