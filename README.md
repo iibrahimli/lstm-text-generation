@@ -2,7 +2,7 @@
 An LSTM written using Keras to generate text character by character.
 `lstm.py` is used for training the model, `lstm_gen.py` is used to generate sequences with the weights of pre-trained model.
 It was trained on C code I wrote for my Data Structures and Algorithms class, which was around 1000 lines maximum.
-It overfit on that data, as it is seen from nearly intelligible variable names and string literals.
+It overfits on that data, however, as seen from nearly intelligible variable names and string literals.
 
 For example:
 ```
